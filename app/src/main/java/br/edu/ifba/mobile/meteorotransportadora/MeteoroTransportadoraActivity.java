@@ -162,13 +162,13 @@ public class MeteoroTransportadoraActivity extends AppCompatActivity implements 
         public CharSequence getPageTitle(int position) {
             switch (position) {
                 case 0:
-                    return "Informações";
+                    return "Infor";
                 case 1:
-                    return "Lista Motoristas";
+                    return "Lis.Motorista";
                 case 2:
                     return "Motorista";
                 case 3:
-                    return "Lista Destinos";
+                    return "Lis.Destino";
                 case 4:
                     return "Destino";
             }
