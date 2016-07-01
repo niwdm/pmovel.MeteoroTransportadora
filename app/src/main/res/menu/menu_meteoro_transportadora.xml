@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="br.edu.ifba.mobile.meteorotransportadora.MeteoroTransportadora">
+    <item
+        android:id="@+id/remover_motorista"
+        android:orderInCategory="100"
+        android:title="Remover Motorista"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/remover_destino"
+        android:orderInCategory="100"
+        android:title="Remover Destino"
+        app:showAsAction="never" />
+</menu>
